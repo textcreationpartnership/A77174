@@ -1,0 +1,723 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epidiorthōsis or a modest enquiry into the nature and state of churches. In order to their through-reformation. By Thomas Boyer minister at Rempston in Nottinghamshire.</title>
+            <author>Boyer, Thomas, b. 1627 or 8.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77174</idno>
+            <idno type="STC">Wing B3920</idno>
+            <idno type="STC">Thomason E1929_2</idno>
+            <idno type="STC">ESTC R209993</idno>
+            <idno type="EEBO-CITATION">99868836</idno>
+            <idno type="PROQUEST">99868836</idno>
+            <idno type="VID">121192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121192)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 239:E1929[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epidiorthōsis or a modest enquiry into the nature and state of churches. In order to their through-reformation. By Thomas Boyer minister at Rempston in Nottinghamshire.</title>
+                  <author>Boyer, Thomas, b. 1627 or 8.</author>
+               </titleStmt>
+               <extent>[4], 75, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for Nathaniel Ekins at the Gun in Pauls Church-yard, and for Stephen Lincoln in Leicester,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title is in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "Febr. 1658"; the 9 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121192:1" rendition="simple:additions"/>
+            <p>ΕΠΙΔΙΩΡΘΟΣΙΣ OR A modeſt Enquiry into the Nature and State of CHURCHES. In Order to their Through-REFORMATION. By THOMAS BOYER Miniſter at <hi>Rempſton</hi> in <hi>Nottinghamſhire.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>TIT. 1.5.</hi>
+               </bibl>
+               <p>For this cauſe left I thee at <hi>Crete,</hi> that thou ſhouldſt ſet in order the things that are wanting, and ordain Elders in every City, as I had appointed thee.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> for <hi>Nathaniel Ekins</hi> at the <hi>Gun</hi> in <hi>Pauls</hi> Church-yard, and for <hi>Stephen Lincoln</hi> in <hi>Leiceſter,</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:121192:2"/>
+            <pb facs="tcp:121192:2"/>
+            <head>To all that wiſh well to SION.</head>
+            <opener>
+               <salute>Brethren,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T being no leſs neceſ<g ref="char:EOLhyphen"/>ſary to circumſtanti<g ref="char:EOLhyphen"/>ate than it is to ſub<g ref="char:EOLhyphen"/>ſtantiate our Duty; As the Word of God is aſſiſtant to us in the one, ſo the works of God are in the other. By vertue of this Conſtellation many have diſcovered moſt glorious things. How it hath illuminated our En<g ref="char:EOLhyphen"/>gliſh Orb, is obvious to every eye. It is long ſince, by this means, ſome ſaw that it was high time for Reformati<g ref="char:EOLhyphen"/>on to be in faſhion. And the ſpirits of Gods people have been working this way many a year; but the largeſt contributions towards this work, have
+<pb facs="tcp:121192:3"/> iſſued out of the Treaſury of thoſe la<g ref="char:EOLhyphen"/>borious Bees that have returned rich<g ref="char:EOLhyphen"/>ly laden from the Wars: Theſe have laid us a right foundation, and ſhew<g ref="char:EOLhyphen"/>ed us the Pattern of a compleat Su<g ref="char:EOLhyphen"/>perſtructure. Its our Intereſt to build accordingly, though many do not; Here's my Mite, which (I muſt con<g ref="char:EOLhyphen"/>feſs) is but very little more than a Breviat of other mens voluminous Eſſaies; but paradventure it may be accepted, if not bleſſed by the Lord; and not prejudicial, if not beneficial unto you. It aims (if heart deceive not) at his Glory and your good. My deſire is that it may hit the white: If moreover it be as ſharp arrows in the heart of the Kings enemies, I intreat them not to be offended, for corrupti<g ref="char:EOLhyphen"/>on had better be let out than gangre<g ref="char:EOLhyphen"/>nate. No more at preſent, but that I am</p>
+            <closer>
+               <signed>An unworthy ſervant of Chriſts for your ſakes, THOMAS BOYER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:121192:3"/>
+            <head>Επιδιορθωσις OR A modeſt Enquiry into the Nature and State of <hi>Churches</hi> in Order to their Through-Reformation.</head>
+            <p>Qu. <hi>
+                  <seg rend="decorInit">W</seg>Hat condition is</hi> England <hi>viſibly in?</hi>
+            </p>
+            <p>
+               <hi>Reſp. England</hi> is viſibly in a ſtate of Luke<g ref="char:EOLhyphen"/>warmneſs. She is neither hot nor cold. She ſo partakes of both, that
+<pb n="2" facs="tcp:121192:4"/> ſhe cannot be ſaid to be either; She is both <hi>Gradu remiſſo;</hi> and nei<g ref="char:EOLhyphen"/>ther <hi>Gradu intenſo.</hi> We are a little Chriſtian, and a little Heathen, or worſe, a little Proteſtant, and a lit<g ref="char:EOLhyphen"/>tle Papiſt or Mahometan. Our hearts are ſtil divided; we give God ſomething, and our luſts ſomething. We fear the Lord, and ſerve our Idols; ſo that our fear of God is equivalent to none at all. We are ſtill like <hi>Redwald,</hi> King of the Eaſt <hi>Saxons,</hi> (the firſt Prince of this Na<g ref="char:EOLhyphen"/>tion that was baptized) In the ſame place we worſhip God, and ſet up an Altar. Our ſpirits lie like that Haven, <hi>Acts</hi> 27.12. towards the Southweſt and Northweſt, two oppoſite points. We are half good, half bad, or Mungrels, and Her<g ref="char:EOLhyphen"/>maphrodites in Religion. There is ſo much of Luke-warmneſs in the Nation, and almoſt in every Town and Family, (if <hi>ex ungue leonem</hi>) that it may thence receive its deno<g ref="char:EOLhyphen"/>mination.
+<pb n="3" facs="tcp:121192:4"/> The ſpirit of <hi>England</hi> is not ſo much a ſpirit of Oppoſi<g ref="char:EOLhyphen"/>tion to, as of Obſtruction of the work of Reformation, through the deadneſs &amp; unweldineſs there<g ref="char:EOLhyphen"/>of. Its grown ſo ſtiff, that its much ado to get it go any further on in the work, though its pitty hot love ſhould be ſo ſoon and ſadly cold; but uſually, men, when they have compaſſed their own ends, are wil<g ref="char:EOLhyphen"/>ling to give themſelves a <hi>Quietus eſt,</hi> and a Writ of eaſe, and to have the infinite Mercies of God totally unanſwered, and his Glory to him<g ref="char:EOLhyphen"/>ſelf to vindicate. It would rejoyce all our hearts, to ſee any of us mend our pace in Religion, and make it appear that we are not guilty of this ſinfull diſtemper. It would ſpeak fair for our admiſſion into Churchſhip in the quality of adult members of the viſible Church of Chriſt.</p>
+            <p>Queſt. <hi>Whether is Lukewarmneſs
+<pb n="4" facs="tcp:121192:5"/> a ſtate to be reſted in or no?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Lukewarmneſs is not a ſtate to be reſted in.</p>
+            <p>
+               <hi>Rat.</hi> 1. For, 1. To halt between two opinions is a very unreaſona<g ref="char:EOLhyphen"/>ble thing. No Apology can be made for it at the laſt day, 1 <hi>Reg.</hi> 18.21.</p>
+            <p n="2">2. To be Lukewarm is oppoſite to Chriſts expreſs command, <hi>Rev.</hi> 3.19.</p>
+            <p n="3">3. A divided heart is a barren and an empty heart, <hi>Hoſ.</hi> 10.1, 2.</p>
+            <p n="4">4. Profeſſors of a divided and lukewarm temper are ſeverely threatned by God, both in the Old and New Teſtament, <hi>Hoſ.</hi> 10.2. <hi>Rev.</hi> 3.16.</p>
+            <p n="5">5. Men of that frame can have no Communion with God in Church-Ordinances, 1 <hi>Cor.</hi> 10.21, 22.</p>
+            <p n="6">6. Such a ſtate is oppoſite to ex<g ref="char:EOLhyphen"/>actneſs in Religion, Through-Re<g ref="char:EOLhyphen"/>formation, and giving up our ſelves wholly to God, and his Truth.</p>
+            <pb n="5" facs="tcp:121192:5"/>
+            <p n="7">7. A Lukewarm-heart cannot let out it ſelf holily to any thing in the world: Divided affections can<g ref="char:EOLhyphen"/>not run out upon any thing in ſub<g ref="char:EOLhyphen"/>ordination to the Glory of God, nor aim ſingly at the honor of Chriſt, <hi>&amp;c.</hi>
+            </p>
+            <p>Queſt. <hi>What is</hi> England <hi>to do in this Condition?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Its <hi>Englands</hi> duty in this condition to lay aſide all carnal conſiderations, and in an orderly Scriptural way, to attempt a Through-Reformation, Perſonal, Civil and Eccleſiaſtical. For a di<g ref="char:EOLhyphen"/>vine Correſpondency is the beſt Policy.</p>
+            <p>Queſt. <hi>What is Reformation?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Reformation in the gene<g ref="char:EOLhyphen"/>ral is a working up of a thing to its regular ſtate and condition, or to the very mind of the Owner to what he would have it in his beſt conception to be, <hi>Leu.</hi> 26.23. <hi>Iſa.</hi> 1.25, 26, 27. <hi>Amos</hi> 9.11. <hi>Mal.</hi>
+               <pb n="6" facs="tcp:121192:6"/> 3.2, 3. <hi>Acts</hi> 1.5.16. 2 <hi>Tim.</hi> 3.16. <hi>Titus</hi> 1.5. <hi>Heb</hi> 9.10.</p>
+            <p>Queſt. <hi>What is Perſonal Re<g ref="char:EOLhyphen"/>formation?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Perſonal Reformation is the working up of a perſon to the regular ſtate of a Reformed Saint.</p>
+            <p>Queſt. <hi>What is Civil Reforma<g ref="char:EOLhyphen"/>tion?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Civil Reformation is the working up of a people to the re<g ref="char:EOLhyphen"/>gular ſtate of a Common-wealth.</p>
+            <p>Queſt. <hi>What is Eccleſiaſtical Re<g ref="char:EOLhyphen"/>formation?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Eccleſiaſtical Reformation is the working up of Reformed Saints to the regular ſtate of a Re<g ref="char:EOLhyphen"/>formed Church.</p>
+            <p>Queſt. <hi>What is a Church?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which we tran<g ref="char:EOLhyphen"/>ſlate Church, amongſt the ancient <hi>Greeks,</hi> eſpecially the <hi>Athenians,</hi> from whom it is taken, denoted three things.</p>
+            <p n="1">1. And moſt properly, a Civil
+<pb n="7" facs="tcp:121192:6"/> Society in Court, or a company of great ones gathered together by a lawfull Authority, or the Com<g ref="char:EOLhyphen"/>mand of the Supream Magiſtrate for a Politique end, or the good of the Common-wealth, <hi>Act.</hi> 19.39. thus a Parliament or Councel of State is a Church.</p>
+            <p n="2">2. It denotes a Company of people, called and met together, by whom, and for what cauſe ſoever, though the Gatherer have no Au<g ref="char:EOLhyphen"/>thority, and the gathered as little knowledge, <hi>&amp;c. Act.</hi> 19.32. Thus a company of the moſt covetous and ignorant Mechanicks are a Church.</p>
+            <p n="3">3. It ſignifies a Company met together for wicked ends, <hi>Act.</hi> 19.40. thus a company of Riotors are a Church.</p>
+            <p>
+               <hi>Reſp.</hi> 2. Secondly, During the Raign of Anti-Chriſt, four things have been abuſively called a Church.</p>
+            <pb n="8" facs="tcp:121192:7"/>
+            <p n="1">1. A Company of people joyned together by the Power of Anti-Chriſt to give obedience to his Traditions. <hi>R.</hi>
+            </p>
+            <p n="2">2. A company of people met together by the Power of the Civil Magiſtrate to receive holy things. <hi>P</hi>
+            </p>
+            <p n="3">3. The place of ſuch meetings.</p>
+            <p n="4">4. A company of Apoſtates joyned together by a Jeſuitical bond, to ſeduce people from the publique Ordinances of Jeſus Chriſt. <hi>A. Q,</hi> &amp;c.</p>
+            <p>
+               <hi>Reſp.</hi> 3. Thirdly, This word <hi>Eccleſia</hi> or Church is very often uſed by the holy Ghoſt in Scripture; but that which it ſeemeth good to the moſt bleſſed Spirit to call moſt frequently by this name, is a Company of viſible Saints joyned together by a ſpecial bond, for the conſtant exerciſe of the Commu<g ref="char:EOLhyphen"/>nion of Saints amongſt themſelves.</p>
+            <p>Queſt. <hi>What condition is every Church of Chriſt in?</hi>
+            </p>
+            <pb n="9" facs="tcp:121192:7"/>
+            <p>
+               <hi>Reſp.</hi> Every Church of Chriſt is either in a Reformed, or in a planted conſtituted ſtate.</p>
+            <p>Queſt. <hi>Is there any difference be<g ref="char:EOLhyphen"/>twixt a planted and a Reformed Church of Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Yea, Their Agreement is very extenſive and emphatical, and yet they differ. In the diſcovery whereof, theſe two conſiderations muſt be diligently eyed. 1. It is one thing to preach the Goſpel, ano<g ref="char:EOLhyphen"/>ther thing to plant the Goſpel, and a third, to plant Churches by the Goſpel preacht, heard and planted; As it is one thing for Work-men to work upon thoſe things that are to be the Materials of a Building in a preparatory way, another thing for thoſe things to be actually prepa<g ref="char:EOLhyphen"/>red and fit to be put into the Build<g ref="char:EOLhyphen"/>ing; and a third thing, to have all thoſe Materials ſo fitted, joyned together, and the building com<g ref="char:EOLhyphen"/>pleated, 1 <hi>Cor.</hi> 3.9. 2. Re<g ref="char:EOLhyphen"/>formation
+<pb n="10" facs="tcp:121192:8"/> ſuppoſeth the building not compleated, and yet ſomewhat done in order thereunto, be it more or leſs; ſometimes and in ſome places it finds the Goſpel to have been preached only, and not plant<g ref="char:EOLhyphen"/>ed. Sometimes it finds that the Goſpel hath been received by ſome, but that thoſe are not united or agreed to walk together in Church-fellowſhip, and ſo do not conſtitute a particular Church ac<g ref="char:EOLhyphen"/>cording to the Goſpel: ſometimes it finds them joyned together, but very looſely. Sometimts it finds them faſt joyned together, but un<g ref="char:EOLhyphen"/>der a defect of ſome particular Officers. Sometimes it finds the Church to have been builded and compleated, but relapſed, degene<g ref="char:EOLhyphen"/>rated, or apoſtatiz'd, leſs or more, as a decayed Building, not utterly ruined, or not having more of the Devil than of Chriſt in it, though too much.</p>
+            <pb n="11" facs="tcp:121192:8"/>
+            <p>This ſuppoſed, theſe four things may be concluded. 1. A Planted and Reformed Church of Chriſt agree
+<list>
+                  <item>1. In their Cauſes.</item>
+                  <item>2. In their Properties.</item>
+                  <item>3. In their Practices. And</item>
+                  <item>4. In their Priviledges.</item>
+               </list>
+            </p>
+            <p n="1">1. In their Cauſes, and ſo firſt in their Efficient cauſes thus. 1. Chriſt was the Inſtitutor and Ordainer both of the firſt Planted, and of Reformed Churches under the Goſpel, <hi>Mat.</hi> 16.18. <hi>Rev.</hi> cap. 2. <hi>&amp;</hi> 3. 2. Chriſt and his Officers by his Word and Spirit are the Makers of both; the Miniſtry is before both; and none but Miniſters by divine Appointment and Com<g ref="char:EOLhyphen"/>miſſion, as <hi>Paul, Timothy,</hi> &amp;c. are originally, ordinarily, and equally employed by Chriſt in either.</p>
+            <p n="2">2. In their matter. Viſible Saints are the matter whereof both the firſt Planted and Reformed Churches of Chriſt are conſtituted and made.</p>
+            <pb n="12" facs="tcp:121192:9"/>
+            <p n="3">3. In their form. Both the firſt Planted and Reformed Churches of Chriſt are formed <hi>(Et in unum co<g ref="char:EOLhyphen"/>aleſcunt omnes, &amp; ſancti, &amp; Eccle<g ref="char:EOLhyphen"/>ſiae)</hi> by a mutual Conſent and A<g ref="char:EOLhyphen"/>greement to walk towards God and one another reſpectively, ac<g ref="char:EOLhyphen"/>cording to Goſpel Rules.</p>
+            <p n="4">4. In their ends. The end both of the firſt Planted and our Reform<g ref="char:EOLhyphen"/>ed Churches of Chriſt, is, his Glo<g ref="char:EOLhyphen"/>ry, and his Saints ſalvation.</p>
+            <p n="2">2. In their Properties: Both the firſt Planted and Reformed Chur<g ref="char:EOLhyphen"/>ches of Chriſt can viſibly perform the conditions of the New Cove<g ref="char:EOLhyphen"/>nant, and act according to Goſpel-Rules of Church Communion.</p>
+            <p n="3">3. In their Practices: Both the firſt Planted and Reformed Chur<g ref="char:EOLhyphen"/>ches of Chriſt do viſibly perform the conditions of the New Cove<g ref="char:EOLhyphen"/>nant, and walk according to Goſ<g ref="char:EOLhyphen"/>pel Rules of Church-Communion.</p>
+            <p n="4">4. They agree in their Privi<g ref="char:EOLhyphen"/>ledges,
+<pb n="13" facs="tcp:121192:9"/> Chriſt hath given very glorious Priviledges, both to his firſt Planted, and to his Reformed Churches. Yet,</p>
+            <p n="2">2. They differ: But,</p>
+            <p n="3">3. The difference that is betwixt them, is but Parallel to the diffe<g ref="char:EOLhyphen"/>rence that was betwixt the Church at its firſt Conſtitution, and the Church Reformed under the Law. And,</p>
+            <p n="4">4. But accidental.</p>
+            <list>
+               <item>1. In their Order.</item>
+               <item>2. In their Officers.</item>
+               <item>3. In their Matter.</item>
+               <item>4. In their Form.</item>
+               <item>5. In their End.</item>
+               <item>6. In their Properties.</item>
+               <item>7. In their Practices. And,</item>
+               <item>8. In their Priviledges.</item>
+            </list>
+            <p>
+               <hi>Mat.</hi> 16.18. 1 <hi>Cor.</hi> 3.11. <hi>Gal.</hi> 1.6, 7, 8, 9.</p>
+            <p>Queſt. <hi>What difference is there in their Order?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Chriſt in the firſt Plant<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:121192:10"/> of his Churches proceeded as it were in an Analytical Order; he made the Goſpel ſo ſucceſsfull, that thouſands were converted at a time, and made as it were one Catholick viſible Church, by joyn<g ref="char:EOLhyphen"/>ing themſelves voluntarily to the Lord and to the Apoſtles then altogether at <hi>Jeruſalem:</hi> out of which as out of a Fountain, there iſſued at it were particular Churches.</p>
+            <p>
+               <hi>Reſp.</hi> Chriſt in the Reforming of his Churches proceeds as it were in a Synthetical Order; He firſt moulds particular perſons into particular Churches, and then thoſe particular Churches into one Catholick Church. <hi>(Senſu Ame<g ref="char:EOLhyphen"/>ſiano) Medul. lib.</hi> 1. <hi>cap.</hi> 31.32.</p>
+            <p>Queſt. <hi>Wherein do the firſt Plan<g ref="char:EOLhyphen"/>ters and Reformers of the Churches of Chriſt differ?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> They agree in the Eſſen<g ref="char:EOLhyphen"/>tials of the Miniſtery; as 1. the Spi<g ref="char:EOLhyphen"/>rit
+<pb n="15" facs="tcp:121192:10"/> of Chriſt hath furniſht both of them (inviſibly at the leaſt) with gifts and graces proportionable to the work whereunto he hath ap<g ref="char:EOLhyphen"/>pointed them in the times and places wherein they live. For eminency in gifts and graces is as neceſſary for all Church-Officers, as ſincerity in them is for all Church-members: and therefore God ſends none to Church-work, but thoſe that appear to their Judges to be ſuch, though they be not all of them equally qualified.</p>
+            <p n="2">2. They are both of them called and ſent, Licenſed and commanded by Chriſt to be his Vicegerents and chief Miniſters about ſoul and Church affairs on earth, <hi>Heb.</hi> 5.4.</p>
+            <p n="3">3. Both of them have the ſame commiſſion for the ſubſtance and body of it; both of them may by the ſpecial Law of Chriſt diſpence the Myſteries of God, or preach, adminiſter Sacraments, and go<g ref="char:EOLhyphen"/>vern
+<pb n="16" facs="tcp:121192:11"/> according to his Word.</p>
+            <p n="4">4. Both of them may providen<g ref="char:EOLhyphen"/>tially be ſuſpended, as to the ex<g ref="char:EOLhyphen"/>erciſe of theſe Acts, which are properly Miniſterial, but not <hi>ex hu<g ref="char:EOLhyphen"/>mana libertate, &amp; arbitrio pro<g ref="char:EOLhyphen"/>prio.</hi>
+            </p>
+            <p n="5">5. Both of them have a right, by Divine grant to a comfortable maintenance that may free them from being neceſſitated to work with their own hands, and encou<g ref="char:EOLhyphen"/>rage them and put them into a ca<g ref="char:EOLhyphen"/>pacity of attending wholly upon the execution of their Commiſſi<g ref="char:EOLhyphen"/>on, 1 <hi>Cor.</hi> 9 to the end, 2 <hi>Tim.</hi> 2.4.</p>
+            <p>
+               <hi>Reſp.</hi> They differ accidentally, and circumſtantially in the extra-eſſentials of the Miniſtery. As 1. in the manner of their receiving of their gifts, graces, vocation, miſſion and commiſſion. For 1. the firſt Preachers and Planters of the Goſpel, <hi>John</hi> the Baptiſt and Chriſt had them all immediatly
+<pb n="17" facs="tcp:121192:11"/> from the Spirit, without any hu<g ref="char:EOLhyphen"/>mane Inſtrumentality.</p>
+            <p n="2">2. The firſt Fathers and Plan<g ref="char:EOLhyphen"/>ters of Churches by the Goſpel, the twelve Apoſtles received them immediatly from Chriſt himſelf, when perſonally preſent with them on earth as their Tutor.</p>
+            <p n="3">3. Their ſeconds <hi>Matthias</hi> and <hi>Paul,</hi> received them partly by the Miniſtery of the Church, and partly from Chriſt immediatly: <hi>Matthias</hi> was fitted for the work of the Miniſtry by Chriſt when he was perſonally preſent on earth; <hi>Paul</hi> by the Spirit of Chriſt when he was aſcended up into Heaven, yet ſo as that the miniſtery of man was not wholly excluded either their vocation or miſſion, <hi>&amp;c. Act.</hi> 1. &amp; 9. chap. <hi>&amp;c.</hi> but,</p>
+            <p n="4">4. The Reformers of the Chur<g ref="char:EOLhyphen"/>ches of Chriſt, <hi>Timothy, Titus,</hi> the Angels of the ſeven Churches of <hi>Aſia,</hi> &amp;c. have ever received them
+<pb n="18" facs="tcp:121192:12"/> from Chriſt by the Miniſtery of the Church or the Officers thereof. They have them moſtly, if not wholly this way: for when there are men fit to be made uſe of in the work of the Goſpel, Chriſt ever employs them proportionably; he never is in extraordinary wayes, but in an extraordinary caſe: tis pure neceſſity that makes him act by himſelf alone without means or Inſtruments.</p>
+            <p n="2">2. They differ in the nature of their Commiſſions. The Commiſ<g ref="char:EOLhyphen"/>ſion that the firſt Preachers and Planters of the Goſpel, and of Churches by it had, &amp; ſhewed, was their power to do Miracles. <hi>Heb.</hi> 2.4. This divine Commiſſion they occaſionally produced to convince the world of the truth of their miſſion. But the Reformers of the Chriſtian Churches have no ſuch commiſſion, 2 <hi>Theſ.</hi> 3.8, 9. but in ſtead thereof the Teſtimonial of
+<pb n="19" facs="tcp:121192:12"/> approved and moſt eminent Prea<g ref="char:EOLhyphen"/>chers of the Goſpel, <hi>&amp;c.</hi> Such a commiſſion <hi>Timothy</hi> and <hi>Titus</hi> had from Chriſt by <hi>Paul</hi> in his Epiſtles to them; and the Angels of the ſeven Churches of <hi>Aſia</hi> by <hi>John</hi> the Apoſtle in his Epiſtles to them. And all other ordinary Of<g ref="char:EOLhyphen"/>ficers of Chriſt from the Apoſtles and others in their Epiſtles to the other Churches reſpectively. Such a commiſſion all their Succeſſors have uſually had, and ſtill have. Its commendably ſo in theſe Nations at this day. And this is ſatisfacto<g ref="char:EOLhyphen"/>ry and final evidence of an ordi<g ref="char:EOLhyphen"/>nary Miniſter.</p>
+            <p n="3">3. They differ in the extent of their authority. The firſt Preach<g ref="char:EOLhyphen"/>ers and Planters of the Goſpel, <hi>John</hi> the Baptiſt and Chriſt might do their work in any part of <hi>Ju<g ref="char:EOLhyphen"/>dea,</hi> and the Planters of Churches by the Goſpel might do their work in any part of the world; but the
+<pb n="20" facs="tcp:121192:13"/> Reformers of the Churches of Chriſt are hunted to particular places, as <hi>Timothy</hi> to <hi>Epheſus, Ti<g ref="char:EOLhyphen"/>tus</hi> to <hi>Crete,</hi> and the Angels of the ſeven Churches of <hi>Aſia</hi> to their reſpective Churches, <hi>&amp;c.</hi> Their commiſſion is only to reform thoſe Churches. They are there, and for that work only; and may neither turn to the right hand nor to the left without further order.</p>
+            <p n="4">4. They differ in reſpect of other maintenance. For 1. the firſt Preachers and Planters of the Goſpel were extraordinarily pro<g ref="char:EOLhyphen"/>vided for.</p>
+            <p n="2">2. The firſt Planters of Churches by the Goſpel had their main<g ref="char:EOLhyphen"/>tenance from the members of thoſe Churches; out of the com<g ref="char:EOLhyphen"/>mon ſtock, which the Church then had, <hi>Act.</hi> 2.44, 45, &amp;c.</p>
+            <p n="3">3. In extraordinary caſes they were ſometimes maintained by their own hand-labour, as was <hi>Paul, Act.</hi> 18. but,</p>
+            <pb n="21" facs="tcp:121192:13"/>
+            <p n="4">4. The Reformers of the Chur<g ref="char:EOLhyphen"/>ches of Chriſt have been, and are maintained moſtly by Tithes: Thoſe that have not been or are not thus maintained, have been and are maintained by ſomewhat that is, as near as can be, equivalent thereunto, eſpecially in <hi>England,</hi> almoſt ever ſince it was Chriſtian: For 1. the Spirit of Chriſt giving an account of the practice of gi<g ref="char:EOLhyphen"/>ving Tithes, or a tenth part of all to the Miniſters of God, with the greateſt exactneſs that can be, is ſo far from ſtigmatizing, that he gives a very fair character of it, <hi>Luke</hi> 18.12, 14. <hi>Heb.</hi> 7.</p>
+            <p n="2">2. This practice was not found<g ref="char:EOLhyphen"/>ed upon the ceremonial Law, but was four hundred and odd years before it, <hi>Geneſis</hi> 14.20. and <hi>Heb.</hi> 7.6.</p>
+            <p n="3">3. Chriſt hath nowhere repeal<g ref="char:EOLhyphen"/>ed, but rather eſtabliſhed the anci<g ref="char:EOLhyphen"/>ent Laws of God about peoples
+<pb n="22" facs="tcp:121192:14"/> giving, and Miniſters receiving of Tithes, <hi>Levit.</hi> 27.30. &amp;c. <hi>Deut.</hi> 14.22. <hi>Malac.</hi> 3.8, 9, 10. &amp; <hi>Luke</hi> 11.42. &amp; <hi>Heb.</hi> 7.5, 8, 9.</p>
+            <p n="4">4. There's general equity in ſuch a courſe; what was due to Mi<g ref="char:EOLhyphen"/>niſters under the Law, is much more due to the Miniſters of the Goſpel, foraſmuch as their Mini<g ref="char:EOLhyphen"/>ſtry is far more excellent, 2 <hi>Corin.</hi> 3. <hi>&amp;c.</hi>
+            </p>
+            <p n="5">5. The Goſpel-ſpirit hath point<g ref="char:EOLhyphen"/>ed them out as moſt due to them, and convenient for them, 1 <hi>Cor.</hi> 9. <hi>Gal.</hi> 6.6.</p>
+            <p n="6">6. Former Magiſtrates in whoſe power they were, in civil reſpect, in this Nation, did accordingly give them to the Miniſters ſucceſſively for ever; and it is no ſmall ſin to violate ſo juſt and pious a will of deceaſed Magiſtrates, <hi>Gal.</hi> 3.15. <hi>Heb.</hi> 9.17.</p>
+            <p n="7">7. There is no other probable way of having and continuing a
+<pb n="23" facs="tcp:121192:14"/> right Evangelical Miniſtry and Magiſtracy throughout this Nati<g ref="char:EOLhyphen"/>on <hi>&amp;c.</hi>
+            </p>
+            <p>Object. <hi>But we muſt do as the Apoſtles did.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Prove that Univerſally.</p>
+            <p>Object. <hi>None of the firſt Refor<g ref="char:EOLhyphen"/>mers were maintained by Tithes.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Its probably true. But 1. want of poſſeſſion, though it may render a mans title ſuſpitious, yet it is conſiſtent with the beſt.</p>
+            <p n="2">2. If it were ſo, that the firſt Reformers were not maintained by Tithes, and be ſo that ſome are not, yet it neither was, nor is be<g ref="char:EOLhyphen"/>cauſe Reforming Miniſters have no right to Tithes; but either 1. Be<g ref="char:EOLhyphen"/>cauſe they were not Chriſtian Ma<g ref="char:EOLhyphen"/>giſtrates that would ſee to the exe<g ref="char:EOLhyphen"/>cution of the Laws of Chriſt, and to the doing of Juſtice according to the Word of God, whereby all men might enjoy their rights and properties; or,</p>
+            <pb n="24" facs="tcp:121192:15"/>
+            <p n="2">2. Becauſe the Saints enjoyed not liberty to improve their eſtates, but were perſecuted and unſetlted: or,</p>
+            <p n="3">3. Becauſe in thoſe times they had not whereof to pay Tithes; for <hi>ex nihilo nihil fit.</hi>
+            </p>
+            <p n="3">3. So ſoon as theſe impedi<g ref="char:EOLhyphen"/>ments were removed in this Nati<g ref="char:EOLhyphen"/>on. It paid Tithes, where it had things tithable; and where it had not, it made up a maintenance for its Miniſters as equivalent as could be to that by Tithes, and ſo it juſt<g ref="char:EOLhyphen"/>ly doth at preſent.</p>
+            <p>Object. <hi>We are not Church-members, nay we do not ſo much as hear thoſe Miniſters that will take Tithes,</hi> &amp;c.</p>
+            <p>
+               <hi>Reſp.</hi> The Law of grace, of God, and of the Nation gives Reform<g ref="char:EOLhyphen"/>ing Miniſters the Tithes for their ſupport and maintenance in the execution of their commiſſion.</p>
+            <p n="2">2. By vertue of theſe Laws they have a right unto them, and are
+<pb n="25" facs="tcp:121192:15"/> rightfully in the poſſeſſion of them.</p>
+            <p n="3">3. Their right to them, or poſ<g ref="char:EOLhyphen"/>ſeſſion of them depends not upon mens Church-memberſhip, or hearing of them, though the Evangelical delivery of them doth.</p>
+            <p n="4">4. All that have a natural capa<g ref="char:EOLhyphen"/>city, ought to have Reforming Mi<g ref="char:EOLhyphen"/>niſters, be fit for and enjoy all Or<g ref="char:EOLhyphen"/>dinances by them adminiſtrable to viſible Saints and Churches of Chriſt, <hi>Rev.</hi> 2.7, 11, 17, <hi>&amp;c.</hi>
+            </p>
+            <p n="5">5. Where ſelf-love is overcome by love to Chriſt, there will neither be head, heart, nor hand againſt maintaining of Miniſters, by donation and payment of Tithes.</p>
+            <p n="6">6. Its well if our innocent op<g ref="char:EOLhyphen"/>poſers of Miniſters maintenance by way of Tithes, trade not with the man of ſin in the depths of Sa<g ref="char:EOLhyphen"/>tan to take away the tenth at leaſt of them, as well as from them.</p>
+            <pb n="26" facs="tcp:121192:16"/>
+            <p>Queſt. <hi>Wherein doth the matter of a Reformed Church, and the mat<g ref="char:EOLhyphen"/>ter of the firſt planted Churches un<g ref="char:EOLhyphen"/>der the Goſpel differ?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Matter is that of which a thing is made, and doth exiſt.</p>
+            <p n="2">2. Viſible Saints are the matter of all true Churches of God.</p>
+            <p n="3">3. Being viſibly in covenant with God, hath ever been the cri<g ref="char:EOLhyphen"/>tical Badge of viſible Saints. All thoſe and thoſe only, are to be eſteemed and uſed as viſible Saints and Gods peculiar, that God hath made a promiſe of himſelf un<g ref="char:EOLhyphen"/>to, and taken into covenant with himſelf.</p>
+            <p n="4">4. The terms upon which God hath made over himſelf to man<g ref="char:EOLhyphen"/>kind, are very various. He pro<g ref="char:EOLhyphen"/>miſed himſelf upon one condition to man in the ſtate of innocency; upon another to him, when faln, upon a third to <hi>Abraham,</hi> &amp;c. upon a fourth to <hi>Moſes,</hi> &amp;c. upon
+<pb n="27" facs="tcp:121192:16"/> a fifth to thoſe adult perſons that lived under the Goſpel; and upon a ſixth to their children reſpe<g ref="char:EOLhyphen"/>ctively, during their minority.</p>
+            <p n="5">5. The difference betwixt the matter of the Church and Chur<g ref="char:EOLhyphen"/>ches of God at one time and at another, is grounded upon his va<g ref="char:EOLhyphen"/>rious adminiſtration of his cove<g ref="char:EOLhyphen"/>nant, or his promiſing and apply<g ref="char:EOLhyphen"/>ing himſelf to mankind upon va<g ref="char:EOLhyphen"/>rious terms and conditions.</p>
+            <p n="6">6. Upon this account the mat<g ref="char:EOLhyphen"/>ter of a Reformed Church, and the matter of the firſt planted Churches under the Goſpel do dif<g ref="char:EOLhyphen"/>fer. For 1. Before Chriſt came in the fleſh, God had freely tyed himſelf to his people by an exter<g ref="char:EOLhyphen"/>nal Covenant of grace, or promiſe of himſelf unto them.</p>
+            <p n="2">2. In the beginning of the Goſpel God altered that, and made a new Will, Teſtament, or Covenant.</p>
+            <pb n="28" facs="tcp:121192:17"/>
+            <p n="3">3. The whole world thereupon was as it were diſſolved, and void of viſible Saints; both <hi>Jews</hi> and <hi>Gentiles</hi> were for a time de<g ref="char:EOLhyphen"/>ſerted by God: for he was not viſibly obliged to mankind in that pinch of time; none of thoſe that were his peculiar people before, could now challenge a particular Intereſt in him, by vertue of his ancient Promiſe to <hi>Abraham,</hi> (though often confirmed in a ſolemn manner, &amp; now indefinite<g ref="char:EOLhyphen"/>ly in force) during that Diſpenſa<g ref="char:EOLhyphen"/>tion, or untill they do perſonally accept of the new covenant, or Gods promiſe of himſelf upon new conditions, <hi>Mar.</hi> 1.</p>
+            <p n="4">4. The world lying in this miſe<g ref="char:EOLhyphen"/>rable condition, God tendered himſelf again unto it in his new Inſtrument or covenant of Peace and Reconciliation by the pub<g ref="char:EOLhyphen"/>like Miniſtry of <hi>John</hi> the Baptiſt; Chriſt and his Apoſtles, and
+<pb n="29" facs="tcp:121192:17"/> their aſſiſtants and ſucceſſors.</p>
+            <p n="5">5. Many Adult perſons did thereupon accept of him accord<g ref="char:EOLhyphen"/>ingly.</p>
+            <p n="6">6. All Adult perſons that ac<g ref="char:EOLhyphen"/>cepted of him accordingly, toge<g ref="char:EOLhyphen"/>ther with their children, were reſtored to their viſible Intereſt in God again, or veſted with an In<g ref="char:EOLhyphen"/>tereſt in God, by vertue of his free grant, promiſe, or covenant, which (as before) only, and ſolely gives a right unto himſelf, and to the glorious things of the Goſpel.</p>
+            <p n="7">7. Thoſe viſible Saints were the matter of the firſt planted Chur<g ref="char:EOLhyphen"/>ches under the Goſpel.</p>
+            <p n="8">8. Moſt of thoſe viſible Saints did viſibly apoſtatize from their acceptance of God upon thoſe new Terms.</p>
+            <p n="9">9. To thoſe viſible Saints ſo apoſtatized, God ſtill tendered himſelf by his Miniſters, but upon higher terms, <hi>Apoc.</hi> 2. &amp; 3.</p>
+            <pb n="30" facs="tcp:121192:18"/>
+            <p n="10">10. All and only thoſe Adult perſons that accepted of him ac<g ref="char:EOLhyphen"/>cordingly, together with their children (having alwayes been legally in them, and one with them by the fundamental Laws of God) were confirmed in, or reſtored to their viſible Intereſt in God again.</p>
+            <p n="11">11. All and only thoſe viſible Saints are the matter of Reformed Churches under the Goſpel.</p>
+            <p>So that the difference betwixt the matter of Reformed Churches, and the matter of the firſt planted Churches under the Goſpel, lies mainly in theſe two points:</p>
+            <p>
+               <hi>Conclu.</hi> 1. Adult perſons who were the firſt and greateſt part of the matter of the firſt planted Churches under the Goſpel were not under the new Goſpel-cove<g ref="char:EOLhyphen"/>nant during their minority: But adult perſons, who alſo were and are the firſt and major part of the matter of Reformed Churches un<g ref="char:EOLhyphen"/>der
+<pb n="31" facs="tcp:121192:18"/> the Goſpel, either were in<g ref="char:EOLhyphen"/>tereſted in the new covenant du<g ref="char:EOLhyphen"/>ring their Infancy, or rejected together with their parents, for their non-improvement of the means of Grace ordained by Chriſt.</p>
+            <p>
+               <hi>Conclu.</hi> 2. Adult perſons who are the firſt and greateſt part of the matter of Reformed Churches under the Goſpel, or the body and Repreſentative of it, are both more extenſive and more intenſive in the performance of the conditions of the new covenant then the Adult matter of the firſt planted Churches under the Goſpel was.</p>
+            <p>Object. <hi>But our Antiminiſteria<g ref="char:EOLhyphen"/>liſts ſay, that none can be in Cove<g ref="char:EOLhyphen"/>nant with God during their mino<g ref="char:EOLhyphen"/>rity?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> It may be ſo. Its very probable that they do hold that babes can have no intereſt in God by promiſe, <hi>&amp;c.</hi> and if ſo, it is
+<pb n="30" facs="tcp:121192:19"/> the fountain of all their viſible ex<g ref="char:EOLhyphen"/>travagancies, and is it ſelf fed by theſe and other helliſh atheiſtical and antichriſtian opinions and principles of darkneſs. 1. That they may make the light within them their <hi>Suprema Lex.</hi>
+            </p>
+            <p n="2">2. That God cannot make a Law without mans conſent.</p>
+            <p n="3">3. That to eſteem of, and uſe any one, as legally in another, is unjuſt and illegal.</p>
+            <p n="4">4. That Infants are utterly un<g ref="char:EOLhyphen"/>capable of free grace, <hi>&amp;c.</hi>
+            </p>
+            <p>Object. <hi>Our Antiminiſterialiſts are ſo far from requiring more of Adult perſons, who are the only mat<g ref="char:EOLhyphen"/>ter of their Churches</hi> (Senſu prae<g ref="char:EOLhyphen"/>dicto) <hi>than was required of adult perſons that were the matter of the firſt conſtituted Churches under the Goſpel incluſively, that they do not require ſo much.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Through-conformity to the Goſpel is not conſiſtent e ther
+<pb n="31" facs="tcp:121192:19"/> with their principles or deſigns.</p>
+            <p n="2">2. Chriſt hath not ſent them either to plant his Churches or re<g ref="char:EOLhyphen"/>form them; and therefore it is no wonder if they go not the way to either.</p>
+            <p n="3">3. They are ſo far from being <hi>Primi perturbatae collapſae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Eccle<g ref="char:EOLhyphen"/>ſiae reſtauratores, menſura<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> reliquo<g ref="char:EOLhyphen"/>rum,</hi> that their practice is no Preſident, nor their work no Rule to Reforming Miniſters in the leaſt.</p>
+            <p n="4">4. What ever may be ſaid <hi>de re<g ref="char:EOLhyphen"/>gulis regulatis.</hi> Chriſts ſeven Epi<g ref="char:EOLhyphen"/>ſtles to the ſeven Churches of <hi>Aſia</hi> are the Supreme <hi>Regula re<g ref="char:EOLhyphen"/>gulans</hi> of all Church-reformation under the Goſpel.</p>
+            <p n="5">5. In thoſe Epiſtles, ſuch matter of Reformed Churches of Chriſt is required as is before mention<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Queſt. <hi>What difference is there betwixt the form of a Reformed
+<pb n="34" facs="tcp:121192:20"/> Church, and the form of the firſt planted Churches under the Goſ<g ref="char:EOLhyphen"/>pel?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> A Form is an internal cauſe, by which a thing is what it is.</p>
+            <p n="2">2. The mutual conſent and agreement of viſible Saints to walk towards God, and one another re<g ref="char:EOLhyphen"/>ſpectively according to the Rules of Gods Word, is the form of all the true Churches of God.</p>
+            <p n="3">3. God according to the good pleaſure of his Will, and the varie<g ref="char:EOLhyphen"/>ty of his Saints conditions, did ſuc<g ref="char:EOLhyphen"/>ceſſively give ſeveral Rules of Church-communion.</p>
+            <p n="4">4. The difference that there is betwixt the form of the Church and Churches of God at one time and at another, is grounded upon that variety of Divine Diſpenſa<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="5">5. Upon this account there is a difference betwixt the form of Re<g ref="char:EOLhyphen"/>formed
+<pb n="35" facs="tcp:121192:20"/> Churches, and the form of the firſt planted Churches under the Goſpel. For 1. Before Chriſt came in the fleſh, God had freely given and commanded his Saints to obſerve and walk according to ſe<g ref="char:EOLhyphen"/>veral Rules of Church-commu<g ref="char:EOLhyphen"/>nion.</p>
+            <p n="2">2. In the beginning of the Goſ<g ref="char:EOLhyphen"/>pel Jeſus Chriſt abrogated thoſe Rules, and gave the Diſciples ſeve<g ref="char:EOLhyphen"/>ral new Rules of Church-commu<g ref="char:EOLhyphen"/>nion.</p>
+            <p n="3">3. Thereupon the world was as it were diſſolved, and void of a viſible Church-ſtate, untill the Diſciples did mutually conſent and agree to walk according to thoſe new Rules.</p>
+            <p n="4">4. The world lying in that con<g ref="char:EOLhyphen"/>fuſed condition, Chriſt according to his promiſe, by himſelf, and his Apoſtles and their aſſiſtants and Succeſſors, commanded the Diſ<g ref="char:EOLhyphen"/>ciples to conſent and agree to walk
+<pb n="34" facs="tcp:121192:21"/> according to thoſe new Rules.</p>
+            <p n="5">5. The Diſciples thereupon at the appointed time, conſent and agree to walk according to thoſe new Rules which Chriſt had given them.</p>
+            <p n="6">6. They were thereupon in the ſtate and quality of a Church of Chriſt.</p>
+            <p n="7">7. That their conſent and agreement was it that made them a viſible Church of Chriſt, and was the form of all the firſt plant<g ref="char:EOLhyphen"/>ed Churches under the Goſpel, <hi>Act.</hi> 2.41, 47. <hi>Act.</hi> 5.13, 14. <hi>Act.</hi> 9.26.17.34. 1 <hi>Cor.</hi> 16.15. 2 <hi>Cor.</hi> 8.5. <hi>Eph.</hi> 2.19, 20, 21, 22.4, 16. <hi>Col.</hi> 2.2, 19.</p>
+            <p n="8">8. All thoſe Churches did real<g ref="char:EOLhyphen"/>ly apoſtatize from that their vi<g ref="char:EOLhyphen"/>ſible Church conſtituting cove<g ref="char:EOLhyphen"/>nant, 2 <hi>Tim.</hi> 3.3.</p>
+            <p n="9">9. Notwithſtanding Chriſt by his Miniſters proceeded very vigo<g ref="char:EOLhyphen"/>rouſly to the Reforming of them;
+<pb n="35" facs="tcp:121192:21"/> 1. By reminding them of, and re<g ref="char:EOLhyphen"/>calling of them to thoſe new rules of Church-communion, which formerly be by himſelf and his Miniſters had, both briefly and largely given out unto them.</p>
+            <p n="2">2. By branching out thoſe gene<g ref="char:EOLhyphen"/>ral Rules into further particulars.</p>
+            <p n="3">3. By preſſing the members of each particular apoſtatized church to bind themſelves more ſtrictly to walk accordingly.</p>
+            <p n="10">10. All and only thoſe Chur<g ref="char:EOLhyphen"/>ches that practiſed accordingly, were continued in the quality of Churches of Chriſt, <hi>Rev. cap.</hi> 1.2. &amp; 3.</p>
+            <p n="11">11. Thoſe Churches whoſe members do practice accordingly, are the Reformed Churches of Chriſt.</p>
+            <p n="12">12. That their practice is the form of a Reformed Church of Chriſt.</p>
+            <p>So that the difference that is be<g ref="char:EOLhyphen"/>twixt
+<pb n="38" facs="tcp:121192:22"/> the form of the Reformed Churches, and the form of the firſt planted Churches under the Goſpel, ſeems to lie mainly in this, that the covenant or mutual conſent and agreement, which forms the Reformed Churches, is more extenſive, intenſive, and ex<g ref="char:EOLhyphen"/>plicite than that which formed the firſt planted Churches under the Goſpel. 1. It is more extenſive, it enableth the Church to more acts of communion than the other doth.</p>
+            <p n="2">2. It is more intenſive. It binds the Church to the preſent exerciſe of all thoſe acts with more refined and fervent affections to Chriſt and the ſouls of one another than the other doth, <hi>Numb.</hi> 25.11, 12, 13. 1 <hi>King.</hi> 19.10. 1 <hi>Cor.</hi> 11.31. 1 <hi>Cor.</hi> 14.1, 12, 39. <hi>Tit.</hi> 2.14. <hi>Rev.</hi> 3.19.</p>
+            <p n="3">3. It is more explicite in it ſelf, it is more particular and expreſs
+<pb n="39" facs="tcp:121192:22"/> then the other is. The firſt Church conſtituting covenant under the Goſpel was very implicit and ge<g ref="char:EOLhyphen"/>neral: but that which gives being to a Reformed Church as ſuch, is more particular and explicite, as will appear, if we eye 1. The perſons covenanting:</p>
+            <p n="2">2. The things conſented and agreed unto, or the matter of the covenant.</p>
+            <p n="3">3. The manner of ſignifying that conſent and agreement.</p>
+            <p n="1">1. The members of a Reformed Church do covenant more indi<g ref="char:EOLhyphen"/>vidually, particularly and peſonal<g ref="char:EOLhyphen"/>ly, then the members of the firſt planted Churches under the Goſ<g ref="char:EOLhyphen"/>pel did.</p>
+            <p n="2">2. The things that they conſent and agree to, are delivered to them more particularly, expreſly and largely, than they were to the members of the firſt planted Churches under the Goſpel.</p>
+            <pb n="38" facs="tcp:121192:23"/>
+            <p n="3">3. The members of Reformed Churches do ſignifie and declare their mutual conſent &amp; agreement more plainly and fully than the members of the firſt conſtituted Churches did: as either, 1. <hi>Viva voce,</hi> by an audible verbal relati<g ref="char:EOLhyphen"/>on of their reſolution to walk according to the Rule of Church communion read unto them, <hi>Exo.</hi> 19.8. <hi>Exod.</hi> 24.2, 7. <hi>Joſh.</hi> 24.16, 21, 22, 24, <hi>&amp;c.</hi> 2 <hi>Chron.</hi> 15.14, 15. <hi>Nehem.</hi> 10.28, 29. Or,</p>
+            <p n="2">2. By ſealing a Writing, con<g ref="char:EOLhyphen"/>taining the matter of ſuch a cove<g ref="char:EOLhyphen"/>nant, or the particulars conſented and agreed unto, <hi>Nehemiah</hi> 9.38, 10.1. Or,</p>
+            <p n="3">3. By ſubſcribing ſuch a Writ<g ref="char:EOLhyphen"/>ing, <hi>Iſaiah</hi> 44.5.</p>
+            <p>Thus the members of throughly reformed Churches evidence their inward determinations, and are made the reformed Churches of Chriſt. But the firſt planted
+<pb n="39" facs="tcp:121192:23"/> Churches were not made and con<g ref="char:EOLhyphen"/>ſtituted in ſo ſolemn a manner, <hi>Gen.</hi> 17.</p>
+            <p>Object. <hi>But the Goſpel leads us not ſo far as to a particular expli<g ref="char:EOLhyphen"/>cite Church conſtituting Cove<g ref="char:EOLhyphen"/>nant.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> This Objection favours of a licentious <hi>Antinomian</hi> ſpirit; for the ſilencing whereof, let ſuch an one conſider: 1. That it is a very great ſin to ſilence the Old Teſta<g ref="char:EOLhyphen"/>ment, where it is not inconſiſtent with, but eſpecially where and when it is ſubſervient to the New. For 1. <hi>All Scripture is given by Inſpiration of God,</hi> 2 Timothy 3.16.</p>
+            <p n="2">2. Neither Chriſt nor his Apo<g ref="char:EOLhyphen"/>ſtles, nor their Aſſiſtants and Succeſſours abrogated any thing of the Old Teſtament but what was inconſiſtent with the New.</p>
+            <p n="3">3. They all along made uſe of the Law in its moſt comprehen<g ref="char:EOLhyphen"/>ſive
+<pb n="42" facs="tcp:121192:24"/> capacity in a way of ſubſer<g ref="char:EOLhyphen"/>viency to the Goſpel.</p>
+            <p n="2">2. Let ſuch an one conſider that by the Scripture the Man of God may be compleatly and throughly furniſht for every good Work, even for that of Reforma<g ref="char:EOLhyphen"/>tion it ſelf, 2 <hi>Timothy</hi> 3.16, 17. but in this poſture he cannot be unleſs he have recourſe to the de<g ref="char:EOLhyphen"/>ſpiſed Old Teſtament.</p>
+            <p n="3">3. Let ſuch an one conſider that it is far better to make uſe of an expedient, that we may find in the old Teſtament, than either 1. not to be throughly reformed, or 2. to coyn an expedient of our own.</p>
+            <p n="4">4. Conſider, that the New Teſtament ſpeaks more ſparingly of that which is more fully diſco<g ref="char:EOLhyphen"/>vered in the Old; as worthy Mr. <hi>Baxter</hi> in his Book entituled, <hi>Plain Scripture proof, &amp;c.</hi> in the firſt poſition of the firſt chapter thereof demonſtrates.</p>
+            <pb n="43" facs="tcp:121192:24"/>
+            <p n="5">5. Conſider, that the Old Teſta<g ref="char:EOLhyphen"/>ment leads directly to ſuch an expe<g ref="char:EOLhyphen"/>dient in the time of Reformation.</p>
+            <p n="6">6. Though the Goſpel doth not lead unto it by expreſs ſyllabi<g ref="char:EOLhyphen"/>cal Inſtruction, yet by neceſſary conſequence it doth.</p>
+            <p>
+               <hi>Reſp.</hi> 2. Its poſſible this Ob<g ref="char:EOLhyphen"/>jection may proceed from natural Antipathy, and that the diſtem<g ref="char:EOLhyphen"/>per may not lye ſo much in the mind and judgement as in the will and affections: if ſo, conſider, 1. Though this expedient be but as the Wall of a City, the Hedge of a Garden, or the border of a gar<g ref="char:EOLhyphen"/>ment, yet theſe things are neceſ<g ref="char:EOLhyphen"/>ſary.</p>
+            <p n="2">2, We are not to Judge of any Ordinance of Chriſt by the fleſh that is upon it, but by the Spirit that is in it.</p>
+            <p n="3">3. That this head of the Serpent may be broken; think of that, <hi>Rom.</hi> 8.7, and take heed of ſelf-intereſt.</p>
+            <pb n="44" facs="tcp:121192:25"/>
+            <p>Object. <hi>But this expedient is but very little uſed.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> I grant that it is very extreamly ſlighted, neglected and diſuſed, but it is no won<g ref="char:EOLhyphen"/>der. For,</p>
+            <p n="1">1. It cannot be uſed, but where Through. Reformation it ſelf is practiſed, And,</p>
+            <p n="2">2. Through-Reformation it ſelf is but little practiſed. Old <hi>Eng<g ref="char:EOLhyphen"/>land</hi> it ſelf is too little acquaint<g ref="char:EOLhyphen"/>ed with it; When this is, the other will be both better known to us, and entertained by us all, which God grant. But,</p>
+            <p n="2">2. Had it never been uſed by any, yet right reaſon muſt have preheminence before any cuſtom; eſpecially before ſuch an one as this: though it have not been, or is not, yet it ought to be ge<g ref="char:EOLhyphen"/>nerally uſed by Chriſtians in this generation: for mans neglect cannot invalidate Gods Law. But,</p>
+            <pb n="45" facs="tcp:121192:25"/>
+            <p n="3">3. It hath been, and is uſed by many in this and the laſt century, and thoſe none of the meaneſt in the Churches of Chriſt.</p>
+            <p n="4">4. Its high time for all the reſt to follow.</p>
+            <p n="5">5. None need to be aſhamed of it.</p>
+            <p n="6">6. Its an honour to thoſe that uſe it.</p>
+            <p n="7">7. Its well if this cavilling againſt the Form come not from an Antipathy to the matter of a Church-covenant; for man is extreamly in love with elbow<g ref="char:EOLhyphen"/>room in a carnal ſelfiſh courſe, and cannot abide a Bill of Di<g ref="char:EOLhyphen"/>vorce.</p>
+            <p>Object. <hi>But Baptiſm is the form of a viſible Church of Chriſt, and of the members thereof.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. In what ſenſe it is ſo, <hi>Reſtat explicandum.</hi>
+            </p>
+            <p n="2">2. That any outward waſhing of the body, or of any part thereof, or that the exhibiting, ſignifying
+<pb n="46" facs="tcp:121192:26"/> and ſealing of that which is exhi<g ref="char:EOLhyphen"/>bited, ſignified and ſealed by Law<g ref="char:EOLhyphen"/>full Baptiſm, is the eſſential con<g ref="char:EOLhyphen"/>ſtitutive form of a viſible Church of Chriſt, or gives Eſſence and Being to a Church and Member<g ref="char:EOLhyphen"/>ſhip, <hi>&amp;c. Reſtat probandum.</hi>
+            </p>
+            <p n="3">3. Againſt it ſee precious Mr. <hi>Sydenham</hi> in the 20th. Chapter of his <hi>Exercitation about Baptiſm.</hi>
+            </p>
+            <p n="4">4. This Principle is a great Plun<g ref="char:EOLhyphen"/>der to Prophaneſs, and a Bar to the Power of Godlineſs.</p>
+            <p>Queſt. <hi>What difference is there betwixt the end of a Reformed Church, and the end of the firſt planted Churches under the Goſpel?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> The End is that for which a thing is.</p>
+            <p n="2">2. God is the great Governor of the whole world; He ſet all the Creatures their work. He di<g ref="char:EOLhyphen"/>rects and leads them to their pro<g ref="char:EOLhyphen"/>per ends, <hi>Pſalm</hi> 29.10.</p>
+            <p n="3">3. The great end of all things is
+<pb n="47" facs="tcp:121192:26"/> the Glory of God. This is his grand intendment, and this all the Creatures bring him in.</p>
+            <p n="4">4. The end of Churches is the ſpecial Glory of God.</p>
+            <p n="5">5. This is the end of all the Churches of God. Divine per<g ref="char:EOLhyphen"/>fection is moſt eminently manifeſt<g ref="char:EOLhyphen"/>ed in them. In them God moſt ſhews his Glory to man on earth, and man moſt ownes the Glory of the God of Heaven. Here are the higheſt actings of the pureſt love betwixt God and man on earth. Here is God edifying man, and man is glorifying God, <hi>Act.</hi> 9.31. Its on<g ref="char:EOLhyphen"/>ly in the Church of God, that man makes returns proportionable to his Receipts, by owning the whole of God. For here man ownes 1. The abſolute ſoveraignty and ſupream Authority of God.</p>
+            <p n="1">1. In ſubmitting to his Inſtituti<g ref="char:EOLhyphen"/>ons. 2. To his Diſpenſations.</p>
+            <p n="2">2. In obeying of his Commands.</p>
+            <pb n="48" facs="tcp:121192:27"/>
+            <p n="2">2. The riches of Gods Free-Grace.</p>
+            <p n="1">1. In praying to him for all good things.</p>
+            <p n="2">2. In prayſing of him for all good things.</p>
+            <p n="3">3. In not fainting under the greateſt burdens.</p>
+            <p n="3">3. The infinite Wiſdom and Knowledge of God.</p>
+            <p n="1">1. In ſpiritual Worſhip.</p>
+            <p n="2">2. In heart ſearching.</p>
+            <p n="3">3. In cloſe walking with him in private.</p>
+            <p n="4">4. The Juſtice and Power of God.</p>
+            <p n="1">1. In expecting his dealing with the wicked according to his Word.</p>
+            <p n="2">2. In fearing his fatherly cor<g ref="char:EOLhyphen"/>recting of themſelves.</p>
+            <p n="5">5. The infinite purity of God is alſo moſt really acknowledged in the Churches of God.</p>
+            <p n="1">1. In their cleanſing of them<g ref="char:EOLhyphen"/>ſelves from all filthineſs both of fleſh and ſpirit.</p>
+            <pb n="49" facs="tcp:121192:27"/>
+            <p n="2">2. In their preſſing after Holineſs, and the perfection thereof, 2 <hi>Cor.</hi> 7.1.</p>
+            <p>Finally, In the Churches of God, God glorifies himſelf moſt by owning of man moſt; and man glorifies God moſt by owning of him moſt; and this is the firſt and laſt end of all the militant Chur<g ref="char:EOLhyphen"/>ches of God; In regard God is moſt gloriouſly glorified by giving and receiving what he hath given to his Churches. But,</p>
+            <p>
+               <hi>Reſp</hi> 6. Though God in order to his greateſt Glory on earth, in his Inſtitution of his Churches, aims,</p>
+            <p n="1">1. At the moſt glorious com<g ref="char:EOLhyphen"/>munication of himſelf. And</p>
+            <p n="2">2. At the moſt glorious returns of that which he Communicates. 1. To himſelf, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. To his Saints, <hi>Iſa.</hi> 43 7. Yet he hath different ends therein, ſui<g ref="char:EOLhyphen"/>table to the different conditions of his people.</p>
+            <pb n="50" facs="tcp:121192:28"/>
+            <p n="7">7. Upon this Account there is a difference betwixt the end of Reformed Churches, and the end of the firſt Planted Churches un<g ref="char:EOLhyphen"/>der the Goſpel. For,</p>
+            <p n="1">1. The Exigencies of Gods people under the Goſpel, are very narrow.</p>
+            <p n="2">2. Gods regard unto them is accordingly very gracious.</p>
+            <p n="3">3. In his Planting and Re<g ref="char:EOLhyphen"/>forming of Churches, he aims at the ſupplying of thoſe different wants which his people lie under. 1. By cauſing them ſpiritually to exerciſe different and ſpiritual acts of Church-communion, and that 1. towards himſelf: and 2. towards one another. And,</p>
+            <p n="2">2. By exerciſing different and ſuitable acts of communion to<g ref="char:EOLhyphen"/>wards them. But,</p>
+            <p n="4">4. His people are in a more deſperate condition in times of Church-Reformation, than they
+<pb n="51" facs="tcp:121192:28"/> are in times of Church-Plantati<g ref="char:EOLhyphen"/>on, In regard they have ſinned, 1. Againſt greater Light: And</p>
+            <p n="2">2. Againſt greater Love; and therefore 5. God out of a gra<g ref="char:EOLhyphen"/>cious reſpect unto them, layes out himſelf, and cauſeth them to lay out themſelves more gloriouſly for their ſalvation in times of Reformation, than in times of Plantation of Churches: and ſo 6. The end of Reformed Chur<g ref="char:EOLhyphen"/>ches is more glorious than the end of the firſt Planted Churches un<g ref="char:EOLhyphen"/>der the Goſpel.</p>
+            <p>More particularly, and briefly: 1. The proper want of Gods people at the firſt Plantation of Churches was edification: and this God intended, and communi<g ref="char:EOLhyphen"/>cated, by gathering and planting of them together.</p>
+            <p n="2">2. Their proper want in times of Reformation, is preſervation from utter ruine and deſolation;
+<pb n="52" facs="tcp:121192:29"/> and this God intends and com<g ref="char:EOLhyphen"/>municates by gathering and Re<g ref="char:EOLhyphen"/>forming of them. For 1. To vote with the Goſpel in a diſtin<g ref="char:EOLhyphen"/>guiſhing way Edification is the working or building up of Chri<g ref="char:EOLhyphen"/>ſtians towards the higheſt pitch or the beſt and compleateſt ſtate and being of a Church of Chriſt at any time before its extream Apoſtacy: and Reformation is the working or re-building up of Chriſtians towards that conditi<g ref="char:EOLhyphen"/>on, after their extream Apoſta<g ref="char:EOLhyphen"/>cy; or the rallying of the ſpiritual Forces of Chriſt, after they have fought with the Devil and his Angels, and been extreamly ſhat<g ref="char:EOLhyphen"/>tered, divided and ſcattered by the power and pollicy of the man of ſin, though they have conquer<g ref="char:EOLhyphen"/>ed him. And,</p>
+            <p n="2">2. As corruption is the way to annihilation, ſo Reformation is the way to preſervation in general, and</p>
+            <pb n="53" facs="tcp:121192:29"/>
+            <p n="3">3. In particular,</p>
+            <p n="1">1. All ſtrengthening is pro<g ref="char:EOLhyphen"/>perly in Order to preſervati<g ref="char:EOLhyphen"/>on. And,</p>
+            <p n="1">1. The ſtrongeſt Union is in Order to the greateſt ſtrengthen<g ref="char:EOLhyphen"/>ing. And,</p>
+            <p n="3">3. Here is the ſtrongeſt Union. 1. In regard of the perſons Uni<g ref="char:EOLhyphen"/>ted. And,</p>
+            <p n="2">2. In regard of the man<g ref="char:EOLhyphen"/>ner of their Uniting, <hi>de quibus Supra.</hi>
+            </p>
+            <p>Again 1. Its Chriſts grand in<g ref="char:EOLhyphen"/>tereſt to preſerve his Church on earth, <hi>Mat.</hi> 16.18. And,</p>
+            <p n="2">2. He hath entruſted his Em<g ref="char:EOLhyphen"/>baſſadors with the management of this great affair; And,</p>
+            <p n="3">3. He hath given them vaſt inſtruction how to do it. And,</p>
+            <p n="4">4. What do they import ſave Reformation?</p>
+            <p n="3">3. As it is the great glory of God to Inſtitute and plant Chur<g ref="char:EOLhyphen"/>ches
+<pb n="54" facs="tcp:121192:30"/> for the Edification of his people, that his ſpecial preſence may be amongſt them before their apoſtacy, <hi>&amp;c.</hi> So it is the greateſt glory of Chriſt to reform his Churches, that his Preſence may continue amongſt them after their apoſtacy and defection, <hi>&amp;c.</hi> For 1. Herein he delivers them from the great removeable evils that are on earth. And,</p>
+            <p n="2">2. Gives them the moſt glo<g ref="char:EOLhyphen"/>rious things that are on earth com<g ref="char:EOLhyphen"/>municable; <hi>de quibus infra.</hi>
+            </p>
+            <p n="4">4. It is the moſt incomparable ſtate of man on earth. In a Thoughly-Reformed ſtate after Chriſtian Apoſtacy, the Saints and Churches of Chriſt are in the greateſt glory that ever they will be in on earth. When this Diſ<g ref="char:EOLhyphen"/>penſation is ended, that in Heaven will immediatly ſucceed it and continue for ever.</p>
+            <p>Queſt. <hi>But who is it that makes
+<pb n="55" facs="tcp:121192:30"/> ſuch a Preſervation the end of his Reformation?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> If we may Judge of mens ends by their actings, men of ſuch a ſpirit are very rare.</p>
+            <p n="2">2. The grand enquiry is not about mens ends, but Gods.</p>
+            <p n="3">3. God doth not make mans life his Law.</p>
+            <p n="4">4. In the Reformation of Chri<g ref="char:EOLhyphen"/>ſtian Churches, its evident, that he aymes at, their Preſervation incluſively, whether men do or not.</p>
+            <p n="5">5. Men ought to uſe Gods means for Gods ends. Its both their duty, honour, and ſafety.</p>
+            <p n="6">6. It proceeds from want of Grace in thoſe that do not, and is not commendable in the leaſt.</p>
+            <p n="7">7. It concerns us to take heed of being led by ungodly guides.</p>
+            <p>Object. <hi>There be other means
+<pb n="56" facs="tcp:121192:31"/> to preſerve the Churches of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Whatever our ends be, Gods way to them is the beſt.</p>
+            <p n="2">2. God hath preſcribed Re<g ref="char:EOLhyphen"/>formation as the way to the Pre<g ref="char:EOLhyphen"/>ſervation of Churches, <hi>Leviticus</hi> 26.23, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. The Experience of all Ages teſtifies and convinceth that it is ſo, and the only ſoveraign Anti<g ref="char:EOLhyphen"/>dote againſt deſolation.</p>
+            <p n="4">4. Its compounded of all the ſaving Spirituals that are in the World.</p>
+            <p n="5">5. Thoſe other wayes and means are but of humane Inven<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="6">6. They are uſed by Worldly Wiſe men, or carnal Polititi<g ref="char:EOLhyphen"/>ans.</p>
+            <p n="7">7. It is not to be expected by Chriſtians, that Chriſt will by them ſecure his Churches from ruin and deſolation: but that,</p>
+            <p n="8">8. Where Chriſtian Reforma<g ref="char:EOLhyphen"/>tion
+<pb n="57" facs="tcp:121192:31"/> is not practiſed, mens Eccle<g ref="char:EOLhyphen"/>ſiaſtical and Spiritual, if not their civil and temporal eſtates and Intereſts will languiſh and come to nothing notwithſtanding, <hi>Leviticus</hi> 26. <hi>&amp;c.</hi> Wherefore,</p>
+            <p n="9">9. <hi>Prudens! O tale Ca<g ref="char:EOLhyphen"/>veto.</hi>
+            </p>
+            <p>Object. <hi>I ſee no neceſſity at all of preſerving of Chriſtian Chur<g ref="char:EOLhyphen"/>ches.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. The Inſtituted Chur<g ref="char:EOLhyphen"/>ches of Chriſt are ſcituated di<g ref="char:EOLhyphen"/>rectly in our way to the full frui<g ref="char:EOLhyphen"/>tion of God in Heaven according to Scriptures.</p>
+            <p n="2">2. The continuance of them is abſolutely neceſſary for all thoſe that travel thither.</p>
+            <p n="3">3. They that are travelling to Heaven do diſcover this neceſſi<g ref="char:EOLhyphen"/>ty.</p>
+            <p n="4">4. The Goſpel is hid from all the reſt, 2 <hi>Corin.</hi> 4.3.</p>
+            <p n="5">5. The Objection ſavours ve<g ref="char:EOLhyphen"/>ry
+<pb n="58" facs="tcp:121192:32"/> ſtrongly of Atheiſm and Anti<g ref="char:EOLhyphen"/>ſcripturiſm, unbelief and Antichri<g ref="char:EOLhyphen"/>ſtianiſm: and therefore,</p>
+            <p n="6">6. Thoſe whoſe ſpirits appear to be fraught with it, muſt be left to the Judgement of God. For 1. <hi>Contra negantem principia non eſt diſputandum.</hi>
+            </p>
+            <p n="2">2. The Apoſtle <hi>Paul</hi> deſires the Church to pray for himſelf and his aſſiſtants and ſucceſſors, that they may be delivered from men of ſuch a ſpirit, 2 <hi>Theſſal.</hi> 1.1.3.1, 2.</p>
+            <p n="3">3. He commands his Succeſ<g ref="char:EOLhyphen"/>ſors in the Miniſtry, 1. To with<g ref="char:EOLhyphen"/>draw from ſuch, 1 <hi>Timothy</hi> 6.5.</p>
+            <p n="2">2. To rebuke them ſharply, <hi>Titus</hi> 1.13,</p>
+            <p n="3">3. To reject ſuch an one, <hi>Titus</hi> 3.10.</p>
+            <p n="4">4. To turn away from ſuch, 2. <hi>Tim.</hi> 3.5.</p>
+            <p n="4">4. He charges the Churches:
+<pb n="59" facs="tcp:121192:32"/> 1. To let them be <hi>anathema Maranatha,</hi> 1 <hi>Cor.</hi> 16.22.</p>
+            <p n="2">2. To avoid them, <hi>Romans</hi> 16.17.</p>
+            <p n="3">3. To let them be accurſed, <hi>Gal.</hi> 1.8, 9.</p>
+            <p n="5">5. He himſelf did actually Ex<g ref="char:EOLhyphen"/>communicate ſuch, 1 <hi>Timothy</hi> 1. 19, 20.</p>
+            <p n="6">6. The Apoſtle <hi>John</hi> adviſeth the Saints, 1. That they receive not ſuch an one into their houſes.</p>
+            <p n="2">2. That they bid him not God-ſpeed, 2 <hi>John</hi> 10.</p>
+            <p n="7">7. Lets not truſt our own hearts in the Goſpel.</p>
+            <p>Queſt. <hi>What difference is there betwixt the Properties of Reform<g ref="char:EOLhyphen"/>ed Churches, and the Properties of the firſt planted Churches under the Goſpel?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. In general, Properties properly are beings that are not of, but follow or flow from the eſſences of their firſt and next Subjects.</p>
+            <pb n="60" facs="tcp:121192:33"/>
+            <p n="2">2. All Properties are Propor<g ref="char:EOLhyphen"/>tionable to the Eſſences from which they flow.</p>
+            <p n="3">3. In particular, 1. The Chur<g ref="char:EOLhyphen"/>ches of God are Eſſentially the moſt glorious things in the world; and therefore,</p>
+            <p n="2">2. They have the moſt glo<g ref="char:EOLhyphen"/>rious Properties that are in the world. Yet,</p>
+            <p n="3">3. The Eſſentials of the Churches of God having been ſometimes more, ſometimes leſs glorious; the Properties of them have accordingly been ſome<g ref="char:EOLhyphen"/>times more, ſometimes leſs glori<g ref="char:EOLhyphen"/>ous.</p>
+            <p n="4">4. More particularly, 1. The Churches Work and neceſſity be<g ref="char:EOLhyphen"/>ing very various: And,</p>
+            <p n="2">2. Greater in times of Re<g ref="char:EOLhyphen"/>formation, than at the firſt Plan<g ref="char:EOLhyphen"/>tation of Churches; God com<g ref="char:EOLhyphen"/>municated himſelf to them accord<g ref="char:EOLhyphen"/>ingly. So that,</p>
+            <pb n="61" facs="tcp:121192:33"/>
+            <p n="5">5. The Eſſences of Reformed Churches being more glorious than the Eſſences of the firſt Planted Churches under the Goſ<g ref="char:EOLhyphen"/>pel; The Properties of Reformed Churches are alſo more glorious than the Properties of the firſt Planted Churches under the Goſ<g ref="char:EOLhyphen"/>pel; to inſtance, 1. The mem<g ref="char:EOLhyphen"/>bers of the firſt Planted Chur<g ref="char:EOLhyphen"/>ches could give much: but the members of Reformed Churches can give more for a viſible In<g ref="char:EOLhyphen"/>tereſt in God. They can give more glorious Evidences of their ſaving converſion and Union with Chriſt. 1. They can make a more expreſs profeſſion of their aſſent to the truth of the Goſpel in ge<g ref="char:EOLhyphen"/>neral.</p>
+            <p n="2">2. They can extend that profeſſion more particulary to the grand Fundamentals of the Goſpel. The Meſſiah is come by owning of it diſtinctly in the parts thereof.</p>
+            <pb n="62" facs="tcp:121192:34"/>
+            <p n="3">3. They can exert more Acts of Faith and Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p n="4">4. They can engage them<g ref="char:EOLhyphen"/>ſelves more gloriouſly to conti<g ref="char:EOLhyphen"/>nue therein, and to walk in all other things alſo according to the Scriptures, and not other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p n="2">2. The firſt Planted Churches under the Goſpel, could walk according to Goſpel Rules of Church-Communion; but Re<g ref="char:EOLhyphen"/>formed Churches can conform to them more compleatly, and exactly. 1. They can glorifie God more.</p>
+            <p n="2">2. They can edifie one another more. And,</p>
+            <p n="3">3. They can contribute more towards the Salvation of thoſe that are without; Whe<g ref="char:EOLhyphen"/>ther
+<pb n="63" facs="tcp:121192:34"/> they be
+<list>
+                  <item>Infidels
+<list>
+                        <item>Heathen Or,</item>
+                        <item>Chriſtian.</item>
+                     </list>
+                  </item>
+                  <item>Scattered Saints,</item>
+                  <item>Unreformed Churches, or</item>
+                  <item>Sauable Apoſtates.</item>
+               </list>
+            </p>
+            <p n="1">1. By the Doctrinal and pra<g ref="char:EOLhyphen"/>ctical holding forth of the Word of Life.</p>
+            <p n="2">2. By defending of it. And,</p>
+            <p n="3">3. By offending the enemies thereof. Such Power is moſt pro<g ref="char:EOLhyphen"/>perly proper to Reformed Chur<g ref="char:EOLhyphen"/>ches under the Goſpel.</p>
+            <p>Queſt. <hi>What difference is there betwixt the practiſes of the Re<g ref="char:EOLhyphen"/>formed Churches, and the practi<g ref="char:EOLhyphen"/>ſes of the firſt Planted Churches under the Goſpel?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> As all Properties are pro<g ref="char:EOLhyphen"/>portionable to the Eſſences; ſo all practiſes are proportionable to the Properties from which they flow: and therefore 1. The Practiſes of Reformed Churches
+<pb n="64" facs="tcp:121192:35"/> are the moſt glorious practiſes in the World.</p>
+            <p n="2">2 In particular: 1. The Members of the Reformed Chur<g ref="char:EOLhyphen"/>ches of Chriſt give moſt for a viſible Intereſt in God; they give the moſt glorious Evidences of their ſaving converſion and Union with Chriſt. 1. They make the moſt expreſs profeſſion of their aſſent to the Truth of the Goſpel in general.</p>
+            <p n="2">2. They extend that pro<g ref="char:EOLhyphen"/>feſſion moſt particularly to the grand Fundamentals of the Goſ<g ref="char:EOLhyphen"/>pel. The Meſſias is come by own<g ref="char:EOLhyphen"/>ing of it diſtinctly in the parts thereof.</p>
+            <p n="3">3. They exert moſt acts of Faith and Repentance.</p>
+            <p n="4">4. They engage themſelves moſt gloriouſly to continue therein, and to walk in all other things alſo according to the Goſ<g ref="char:EOLhyphen"/>pel, and not otherwiſe.</p>
+            <pb n="65" facs="tcp:121192:35"/>
+            <p n="2">2. The Reformed Churches of Chriſt conform moſt glori<g ref="char:EOLhyphen"/>ouſly to the Rules of Church-Communion. 1. They glorifie God moſt.</p>
+            <p n="2">2. They lay out them<g ref="char:EOLhyphen"/>ſelves moſt for the benefit of one another.</p>
+            <p n="3">3. They contribute moſt towards the ſalvation of thoſe that are without.</p>
+            <p>As are
+<list>
+                  <item>1. Infidels
+<list>
+                        <item>Heathen and</item>
+                        <item>Chriſtian:</item>
+                     </list>
+                  </item>
+                  <item>2. Scattered Saints.</item>
+                  <item>3. Unreformed Churches; </item>
+                  <item>And 4. Savable Apoſtates.</item>
+               </list>
+            </p>
+            <p n="1">1. By the Doctrinal and pra<g ref="char:EOLhyphen"/>ctical holding forth of the Word of Life.</p>
+            <p n="2">2. By defending of it. And,</p>
+            <p n="3">3. By offending the enemies thereof in a Scriptural way.</p>
+            <pb n="66" facs="tcp:121192:36"/>
+            <p>Such are the Practiſes of the Reformed Churches of Chriſt.</p>
+            <p>Queſt. <hi>What difference is there betwixt the Priviledges of the Re<g ref="char:EOLhyphen"/>formed Churches, and the Privi<g ref="char:EOLhyphen"/>ledges of the firſt planted Churches of Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. In general: Privi<g ref="char:EOLhyphen"/>ledges are ſpecial advantages, granted to a ſpecial perſon or peo<g ref="char:EOLhyphen"/>ple, by their Superiours.</p>
+            <p n="2">2. They are proportioned to the practiſes or atchievments of thoſe that have them granted unto them: Particularly, 1. Though Gods free Grace be the Foun<g ref="char:EOLhyphen"/>tain of all Humane Enjoy<g ref="char:EOLhyphen"/>ments; Yet,</p>
+            <p n="2">2. Divine Providence hath ſo ordered it, that 1. In gene<g ref="char:EOLhyphen"/>ral, they that do moſt have moſt. And,</p>
+            <p n="2">2. In particular, they that do moſt for God, have moſt from God. And,</p>
+            <pb n="67" facs="tcp:121192:36"/>
+            <p n="3">3. Therefore the Reformed Churches of Chriſt have the moſt glorious Priviledges that are in the World. 1. They have the moſt glorious Adminiſtration of the Covenant of Grace; Chriſt is applyed to them in the moſt glo<g ref="char:EOLhyphen"/>rious manner in all the pureſt Ordinances of Jeſus Chriſt, <hi>Iſaiah</hi> 2.2, 3, 4.30.20, 21, 26.</p>
+            <p n="2">2. They have the moſt glorious Intereſt in God, <hi>Exod.</hi> 19.5, 6. <hi>Levit.</hi> 26.12. 2 <hi>Corin.</hi> 6.17, 18.</p>
+            <p n="3">3. They have the moſt glorious communion with Chriſt in his Ordinances, <hi>Revel.</hi> 27, 17. <hi>Revel.</hi> 3.20.</p>
+            <p n="4">4. They grow moſt under Means of Grace, <hi>Mal.</hi> 4.2.</p>
+            <p n="5">5. They have the moſt glorious Evidences of their Juſti<g ref="char:EOLhyphen"/>fication, <hi>Revel.</hi> 2.10, 11, 17. <hi>Revel.</hi> 3.4, 5, 21.</p>
+            <pb n="68" facs="tcp:121192:37"/>
+            <p n="6">6. They have the moſt glorious outward peace amongſt themſelves, <hi>Iſaiah</hi> 11. <hi>Micah</hi> 4.3, 4.</p>
+            <p n="7">7. They are conſtituted and fixed by Chriſt for the main Supporters of Chriſtianity, <hi>Revel.</hi> 3.12.</p>
+            <p n="8">8. They have the moſt glo<g ref="char:EOLhyphen"/>rious power on Earth, <hi>Revel.</hi> 2.26, 27.</p>
+            <p n="9">9. Chriſt cauſeth them to be honoured even by the great<g ref="char:EOLhyphen"/>eſt enemies of Chriſtianity, <hi>Rev.</hi> 3.9.</p>
+            <p n="10">10. Chriſt himſelf ſecures them in times of greateſt danger, <hi>Rev.</hi> 3.10.</p>
+            <p n="11">11. They have the Magi<g ref="char:EOLhyphen"/>ſtrates for their ordinary prote<g ref="char:EOLhyphen"/>ction, <hi>Iſaiah</hi> 4.5, 6. <hi>Iſaiah</hi> 32.1, 2. <hi>Iſaiah</hi> 49.23. <hi>Romans</hi> 13.3, 4. 1 <hi>Timothy</hi> 2.2, 3.</p>
+            <p n="12">12. They have the moſt glorious Preſence of God alone
+<pb n="69" facs="tcp:121192:37"/> with them in the tenour of their temporal undertakings, <hi>Exodus</hi> 23.22, <hi>&amp;c. Levit.</hi> 26. <hi>Deut.</hi> 28. <hi>Et alibi paſſim.</hi>
+            </p>
+            <p>Theſe are the proper Privi<g ref="char:EOLhyphen"/>ledges of the Reformed Church of Chriſt.</p>
+            <p>In a word: Notwithſtanding that helliſh conſpiracy, and An<g ref="char:EOLhyphen"/>tichriſtian Energy: and the terri<g ref="char:EOLhyphen"/>ble tottering of the firſt Planted Churches of Chriſt, and of the true Reformed Proteſtant Chri<g ref="char:EOLhyphen"/>ſtian Religion, for a thouſand years: yet neither the one nor the other are totally eclipſed, much leſs ruined, but retain their Eſſentials, and had need be Ral<g ref="char:EOLhyphen"/>lyed and new model'd through<g ref="char:EOLhyphen"/>out.</p>
+            <p>Queſt. <hi>What muſt we do that we may be a Reformed Church of Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Repent of your ſcanda<g ref="char:EOLhyphen"/>lous ſins, Not walking up to
+<pb n="70" facs="tcp:121192:38"/> your Baptiſmal Covenant, Apo<g ref="char:EOLhyphen"/>poſtacy, Neglect of Evangeli<g ref="char:EOLhyphen"/>cally approved Miniſters of Chriſt, and of the Ordinances by them adminiſtrable, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. Hear ſuch Preachers, <hi>Re<g ref="char:EOLhyphen"/>vel. cap.</hi> 2. &amp; 3.</p>
+            <p n="3">3. Continue therein with pa<g ref="char:EOLhyphen"/>tience, untill ye think ye can prove that ye have ſuch a Faith in Chriſt as hath the Promiſe of Salvation annexed to it in the Goſ<g ref="char:EOLhyphen"/>pel, <hi>Rom.</hi> 10 17.</p>
+            <p n="4">4. When ye think ye can prove that ye have ſuch a Faith, make known your arguments to your Miniſter by conference or otherwiſe.</p>
+            <p n="5">5. Offer to give Scripture Security for your continuance in the profeſſion and practice of ſuch a Faith and Repentance; and to walk in all other things alſo according to the Scriptures of the Old and New Teſta<g ref="char:EOLhyphen"/>ment,
+<pb n="71" facs="tcp:121192:38"/> and not otherwiſe, during life.</p>
+            <p n="6">6. If your ſuppoſed eviden<g ref="char:EOLhyphen"/>ces of your union with Chrſt be approved and accepted by your Miniſter, give the profer<g ref="char:EOLhyphen"/>ed Security for your future cor<g ref="char:EOLhyphen"/>reſpondent Evangelical behavi<g ref="char:EOLhyphen"/>our.</p>
+            <p n="7">7. If your ſuppoſed eviden<g ref="char:EOLhyphen"/>ces of your Union with Chriſt be not yet approved and ac<g ref="char:EOLhyphen"/>cepted by your Miniſter, then continue quietly and peaceably under the Miniſtry of the Word untill they be, and then give the profered Security for your ſaid good behaviour according to the Goſpel: and then</p>
+            <p n="8">8. Your Miniſter muſt ſo<g ref="char:EOLhyphen"/>lemnly admit or declare you, (being ſeven, or more) a Re<g ref="char:EOLhyphen"/>formed Church of Chriſt.</p>
+            <p n="9">9. Being ſo admitted or de<g ref="char:EOLhyphen"/>clared, ye are a viſible Re<g ref="char:EOLhyphen"/>formed
+<pb n="72" facs="tcp:121192:39"/> Proteſtant Chriſtian Church of Chriſt by and in the Eye of the Goſpel.</p>
+            <p>Queſt. <hi>Are we not a Church of Chriſt untill then?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> No: For 1. We are not a firſt Planted Church of Chriſt before. And</p>
+            <p n="2">2. No perſon is a Re<g ref="char:EOLhyphen"/>formed Saint untill he have ſuch approved Evidences of his union with Chriſt.</p>
+            <p>Object. <hi>But we are accounted Saints, and a Church of Chriſt without that or any of it.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Proh nefas! 2 <hi>Theſſal.</hi> 2.8.</p>
+            <p n="2">2. Goſpel reckoning is the beſt, <hi>Romans</hi> 2.16, <hi>&amp;c.</hi> And,</p>
+            <p>
+               <hi>Reſp.</hi> 3. By the Goſpel, 1. None in our dayes may warrantably expect Salvation, but upon the terms above men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p n="2">2. None may warranta<g ref="char:EOLhyphen"/>bly
+<pb n="73" facs="tcp:121192:39"/> judge himſelf to be a Saint or member of a Reformed Church of Chriſt but upon thoſe condi<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="3">3. No Miniſter of Chriſt may Judge or Declare any man to be a Saint, or any Society to be a Church of Chriſt but upon the terms above mentioned re<g ref="char:EOLhyphen"/>ſpectively.</p>
+            <p n="4">4. Without Miniſterial Union and inauguration, none are a Reformed Church of Chriſt.</p>
+            <p n="4">4. Take heed of Antichriſt, 2 <hi>Epiſt. John</hi> 8.</p>
+            <p>Queſt. <hi>Muſt we not be admit<g ref="char:EOLhyphen"/>ted into the ſtate of Reformed Saints, or members of a Re<g ref="char:EOLhyphen"/>formed Church of Chriſt by Bap<g ref="char:EOLhyphen"/>tiſm, when we are approved of by our Miniſter?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> No: For 1. The Goſpel Epiſtles are calculated directly
+<pb n="74" facs="tcp:121192:40"/> for our Meridian; and,</p>
+            <p n="2">2. There is no Rule for ſuch a Practiſe.</p>
+            <p n="2">2. It lies upon thoſe that are for the Affirmative; and they are deſired to prove it, if they can.</p>
+            <p n="3">3. In the interim they will do well not to exclaim of and di<g ref="char:EOLhyphen"/>vide from Reforming Miniſters and Chriſtians.</p>
+            <p>Queſt. <hi>How then muſt Re<g ref="char:EOLhyphen"/>formed Chriſtians be inſtalled in<g ref="char:EOLhyphen"/>to the ſtate of a Reformed Church, or members thereof?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Either 1. By your Miniſters publique verbal Decla<g ref="char:EOLhyphen"/>ration of his approbation of your evidential Profeſſion, and of your being thereupon in that eſtate and quality. Or,</p>
+            <p n="2">2. By laying his hands upon you, and praying for you, <hi>Heb.</hi> 6.2. 1 <hi>Tim.</hi> 5.22. Or,</p>
+            <pb n="75" facs="tcp:121192:40"/>
+            <p n="3">3. By his enrolement of your Names in a Book of Re<g ref="char:EOLhyphen"/>cord, <hi>Malathy</hi> 3.16, 17, 18. Or,</p>
+            <p n="4">4. By all or two of theſe together: to bring our Diviſi<g ref="char:EOLhyphen"/>ons to</p>
+            <trailer>An end.</trailer>
+            <pb facs="tcp:121192:41"/>
+            <pb facs="tcp:121192:41"/>
+         </div>
+      </body>
+   </text>
+</TEI>
